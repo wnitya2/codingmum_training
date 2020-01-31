@@ -1,7 +1,9 @@
 ## KCMI Training - Pengenalan Git
 
+<img src="https://i.imgur.com/mKQeVeS.png"></img>
 
-### Pertemuan 1
+
+### Pertemuan 1 (31-01-2020)
 
 ```markdown
 1. Memahami konsep Version Control System, Git, dan GitHub
